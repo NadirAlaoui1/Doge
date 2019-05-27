@@ -1,0 +1,23 @@
+html body {
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+#doge {
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    border: 2px solid;
+    text-transform: uppercase;
+    border-radius: 6px;
+    align-self: center;
+}
+#doge:active {
+    transform: translateY(1px);
+    filter: saturate(150%);
+}

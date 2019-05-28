@@ -6,7 +6,7 @@ html body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 90vh;
 }
 #doge {
     padding: 5px;

@@ -1,12 +1,12 @@
 function changeText(){
 
-    var text = document.getElementById('doge').innerHTML = "Woof woof!"
+    var text = document.getElementById('doge').innerHTML = "WOOF WOOF!"
 
 }
 
 function defaultText(){
 
-    var text = document.getElementById('doge').innerHTML = "Woof!"
+    var text = document.getElementById('doge').innerHTML = "WOOF!"
     
 }
 

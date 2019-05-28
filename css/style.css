@@ -17,10 +17,6 @@ html body {
     border-radius: 6px;
     align-self: center;
 }
-#doge:active {
-    transform: translateY(1px);
-    filter: saturate(150%);
-}
 
 .container {
     display: flex;

@@ -21,3 +21,16 @@ html body {
     transform: translateY(1px);
     filter: saturate(150%);
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+#dogepic {
+    visibility: hidden;
+}
+#dogepic.clicked {
+    visibility: visible;
+}
